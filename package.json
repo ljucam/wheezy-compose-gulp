@@ -1,0 +1,22 @@
+{
+  "name": "compose",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-exist": "0.0.4",
+    "gulp": "^3.9.0",
+    "gulp-docker": "0.0.11",
+    "gulp-mustache": "^2.2.0",
+    "gulp-newer": "^1.1.0",
+    "gulp-util": "^3.0.7",
+    "js-yaml": "^3.4.6",
+    "shelljs": "^0.5.3",
+    "stream-series": "^0.1.1"
+  }
+}
