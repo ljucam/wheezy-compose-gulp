@@ -9,4 +9,5 @@ RUN apt-get update && \
 WORKDIR /root
 ADD package.json /root/
 RUN npm install
-ENTRYPOINT gulp
+ENTRYPOINT ["gulp"]
+CMD []
