@@ -12,11 +12,13 @@
     "file-exist": "0.0.4",
     "gulp": "^3.9.0",
     "gulp-docker": "0.0.11",
-    "gulp-mustache": "^2.2.0",
     "gulp-newer": "^1.1.0",
     "gulp-util": "^3.0.7",
     "js-yaml": "^3.4.6",
     "shelljs": "^0.5.3",
-    "stream-series": "^0.1.1"
+    "stream-series": "^0.1.1",
+    "gulp-hb": "~2.6.5",
+    "gulp-rename": "~1.2.2",
+    "yargs": "~3.31.0"
   }
 }
