@@ -20,6 +20,7 @@
     "gulp-hb": "~2.6.5",
     "gulp-rename": "~1.2.2",
     "yargs": "~3.31.0",
-    "file-exists": "~1.0.0"
+    "file-exists": "~1.0.0",
+    "lazy": "~1.0.11"
   }
 }
