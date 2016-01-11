@@ -23,7 +23,7 @@
     "file-exists": "~1.0.0",
     "lazy": "~1.0.11",
     "docker-stats": "^0.5.0",
-    "node-docker-log-monitor": "^1.0.3",
+    "tail": "^0.4.0",
     "node-docker-monitor": "^1.0.3",
     "through2": "^2.0.0",
     "turtle-race": "^0.8.0"    
