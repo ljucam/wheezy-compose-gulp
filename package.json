@@ -30,6 +30,6 @@
     "turtle-race": "^0.15.0",
     "cpu-stat": "^2.0.1",
     "q": "~1.4.1",
-    "dockerode": "~2.2.10"
+    "dockerode": "~2.3.0"
   }
 }
